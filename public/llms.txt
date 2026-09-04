@@ -1,0 +1,9 @@
+# MarketHub
+
+> Frontend-first marketplace operations dashboard built with React, TypeScript, TanStack Router, TanStack Query, TanStack Table and Tailwind CSS.
+
+MarketHub is a portfolio project focused on catalog operations, order tracking, customer management and store analytics. The app uses a local mock service layer so it runs without a backend while preserving a clean data-access boundary for a future API integration.
+
+- Stack: React 19, TypeScript, Vite, TanStack Router, TanStack Query, TanStack Table, React Hook Form, Zod, Tailwind CSS, shadcn/ui primitives
+- Data: typed local mock services with query caching and URL-synced table state
+- Main areas: Overview, Orders, Products, Customers, Tasks, Notifications
